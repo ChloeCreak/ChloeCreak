@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChloeCreak
+- 👀 I am a first year computer science student at the Univerity of Sheffield!
+- 🌱 Currently working with Java, Ruby and a little bit of Python
