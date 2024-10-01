@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @ChloeCreak
-- 👀 I am a third year computer science student at the Univerity of Sheffield!
-- 🌱 Currently working with Java, Ruby, Python, Haskell and Web Development!
+👋 I'm a third-year Computer Science student at the University of Sheffield, passionate about coding and software development. 
+I enjoy programming in Java, Python, and Ruby and love building projects that solve real-world problems.
+
+💻 Skills & Interests:
+Languages: Java, Python, Ruby, Haskell
+Currently Learning: Bio-Inspired Computing, Mobile Development, Software Engineering, Web Development and Internet of Things.
