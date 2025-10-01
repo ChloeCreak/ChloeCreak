@@ -1,5 +1,3 @@
-👋 I'm a third-year Computer Science student at the University of Sheffield, passionate about coding and software development. 
+👋 I'm a Computer Science graduate with a passion for software development. 
 
-💡 Languages: Java, Python, Ruby, Haskell
-
-💻 Currently Learning: Bio-Inspired Computing, Mobile Development, Software Engineering, Web Development and Internet of Things.
+💡 Languages: Java, Javascript, Python
